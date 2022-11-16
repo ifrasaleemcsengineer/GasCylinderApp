@@ -7,7 +7,6 @@ import Battery from 'react-native-vector-icons/Entypo'
 import Cylinder from 'react-native-vector-icons/MaterialCommunityIcons'
 import SelectList from 'react-native-dropdown-select-list'
 import { Dimensions } from "react-native";
-// import PushController from './push_controller';
 import {FlatList} from 'react-native';
 
 // let pushData = [
@@ -47,12 +46,15 @@ const Home = (props) => {
       height: height,
         width: width,
     }}>
+      {/* <Push/>  */}
+
       {/* <FlatList
               data={pushData}
               renderItem={(item ) => this._renderItem(item)}
               keyExtractor={(item ) => item.title}
             />
-      <PushController/> */}
+      <PushController/> 
+      */}
 
     <View style={{
       backgroundColor: "#FFF",
