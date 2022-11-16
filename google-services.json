@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "613390215087",
+    "firebase_url": "https://gas-cylinder-87bc1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gas-cylinder-87bc1",
+    "storage_bucket": "gas-cylinder-87bc1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613390215087:android:3aff6bf1b88f08a09ff15a",
+        "android_client_info": {
+          "package_name": "com.codeveloopers.GasCylinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613390215087-3401nm44bvl9nhk53fpcm1fi24kglean.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeveloopers.GasCylinder",
+            "certificate_hash": "1948d38fe224e30c1f5181735382368404639ffa"
+          }
+        },
+        {
+          "client_id": "613390215087-ivj0jfcblhj17fskcj455gcn7rjicbq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codeveloopers.GasCylinder",
+            "certificate_hash": "ee3680aba47c676ab7247ba31d46b4d3b95618df"
+          }
+        },
+        {
+          "client_id": "613390215087-01pnlo20ufg3cb93fh1f8crkef9ds5fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfwEbRpUB_eS2NTCexyIB_AQTOWvZEdhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613390215087-01pnlo20ufg3cb93fh1f8crkef9ds5fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
